@@ -1,2 +1,2 @@
 # ACL
-applied the Access List and Routing Protocol in packet tracer
+applied the Extended Access List and Routing Protocol in packet tracer
